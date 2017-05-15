@@ -1,3 +1,4 @@
+@import url(http://fonts.useso.com/css?family=Galdeano);
 @media screen {
 .container {
 width:auto;
@@ -69,10 +70,6 @@ color:#147716;
 text-decoration:none;
 }
 
-p a {
-border-bottom:1px dashed #bbb;
-}
-
 .container {
 margin-left:auto;
 margin-right:auto;
@@ -80,17 +77,6 @@ zoom:1px;
 width:700px;
 }
 
-p {
-font-size:15px;
-line-height:30px;
-color:#555;
-margin:0 0 15px;
-}
-
-p small {
-font-size:13px;
-color:#999;
-}
 
 .lead {
 margin-bottom:30px;
@@ -116,9 +102,24 @@ font-size:30px;
 line-height:60px;
 }
 
+/* Titles of categories */
 h2 {
-font-size:24px;
-line-height:60px;
+    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+    color: #1Fb922;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 19%;
+    height: 10px;
+    /* This is called "rulecolor" in the ConTeXt stylesheet. */
+    background-color: #1Fb922;
+}
+h2:hover {
+    background-color: #147716;
+    color: #fff;
 }
 
 h3 {
@@ -158,15 +159,28 @@ dl {
 margin-bottom:30px;
 }
 
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 20%;
+    /*font-weight: bold;*/
+}
 dd {
-margin-left:15px;
+    margin-left: 20%;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
 }
 
+/* Horizontal separators */
 hr {
-border:0;
-border-top:1px solid #e5e5e5;
-border-bottom:1px solid #fff;
-margin:30px 0;
+    color: #A6A6A6;
+}
+
+table {
+    width: 100%;
 }
 
 em {
@@ -184,39 +198,9 @@ border-bottom:1px dotted #ddd;
 cursor:help;
 }
 
+/* Blockquotes */
 blockquote {
-border-left:5px solid #eee;
-margin:0 0 30px;
-padding:0 0 0 15px;
-}
-
-blockquote p {
-margin-bottom:0;
-font-size:13px;
-font-weight:300;
-line-height:25px;
-}
-
-blockquote small {
-display:block;
-line-height:30px;
-color:#999;
-}
-
-blockquote small:before {
-content:'\2014 \00A0';
-}
-
-blockquote.pull-right {
-float:right;
-padding-left:0;
-padding-right:15px;
-border-left:0;
-border-right:5px solid #eee;
-}
-
-blockquote.pull-right p,blockquote.pull-right small {
-text-align:right;
+    text-align: left
 }
 
 q:before,q:after,blockquote:before,blockquote:after {
