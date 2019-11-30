@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Jiali Mei | 梅嘉莉</title>
+    <link>http://jialimei.me/resume/</link>
+    <description>Recent content in Resumes on Jiali Mei | 梅嘉莉</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://jialimei.me/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jiali Mei</title>
+      <link>http://jialimei.me/resume/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jialimei.me/resume/cv/</guid>
+      <description>Expérience professionnelle  2018-Présent Shift Technology (Paris) Chercheuse 2015-2017 EDF Lab Paris-Saclay (Palaiseau) Ingénieure Doctorante
+ Construction des modèles statistiques de la consommation électrique innovants
+ Développement d&amp;rsquo;un package R regroupant les algorithmes inventés et la procédure d&amp;rsquo;expérimentation
+ Rédaction et publication d&amp;rsquo;articles scientifiques
+ Brevet déposé : Procédé d’estimation de consommation/production de fluides/effluents à partir de mesures partielles
+  2015-2016 IUT Sceaux (Sceaux) Enseignante en Mathématiques en L1 et L2</description>
+    </item>
+    
+    <item>
+      <title>Jiali Mei</title>
+      <link>http://jialimei.me/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jialimei.me/resume/resume/</guid>
+      <description>Experience  2018-Now Shift Technology (Paris) Researcher 2015-2017 EDF Lab Paris-Saclay (Palaiseau) Research engineer/Ph.D. student
+ Proposed innovative statistical models for electricity consumption
+ Developed an R package including invented algorithms and experimental procedures
+ Wrote and published scientific articles
+ Filed a patent: Procédé d’estimation de consommation/production de fluides/effluents à partir de mesures partielles
+  2015-2016 IUT Sceaux (Sceaux) Teaching assistant in mathematics for undergraduate students
+ 2014 (9 months) DataKnowledge (Paris) Data scientist</description>
+    </item>
+    
+  </channel>
+</rss>
