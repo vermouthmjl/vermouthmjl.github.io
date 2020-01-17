@@ -85,6 +85,7 @@ font-size:15px;
 line-height:30px;
 color:#555;
 margin:0 0 15px;
+text-align: justify;
 }
 
 p small {
@@ -249,7 +250,7 @@ padding:0 3px 2px;
 }
 
 code {
-color:#44DD11;
+color:#A46B42;
 background-color:#f7f7f9;
 border:1px solid #e1e1e8;
 padding:3px 4px;
@@ -460,6 +461,7 @@ font-size:14px;
 
 h4,h5,h6,li,dt,dd {
 line-height:30px;
+text-align: justify;
 }
 
 h4 small,h5 {
