@@ -6,10 +6,20 @@
     <description>Recent content in What was I thinking? on Jiali Mei | 梅嘉莉</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 16:41:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 12:17:28 +0900</lastBuildDate>
     
 	<atom:link href="http://jialimei.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using git for a PhD thesis</title>
+      <link>http://jialimei.me/blog/git_thesis/</link>
+      <pubDate>Sun, 12 Jan 2020 12:17:28 +0900</pubDate>
+      
+      <guid>http://jialimei.me/blog/git_thesis/</guid>
+      <description>It was one of the best decisions I made in my PhD thesis.
+I started my phd officially in January 2015, although the internship that finally turned into a thesis project started in September 2013. I wrote the articles that became chapters of the thesis gradually during the four years which lead to a month or maybe two months of manuscript writing, rewriting and organization, which was relatively easily and painless.</description>
+    </item>
     
     <item>
       <title>What was I thinking?</title>
