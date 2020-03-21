@@ -6,10 +6,20 @@
     <description>Recent content in What was I thinking? on Jiali Mei | 梅嘉莉</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 12:17:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 09:53:05 +0100</lastBuildDate>
     
 	<atom:link href="http://jialimei.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why do I say that Gone Girl is a feminist movie</title>
+      <link>http://jialimei.me/blog/gone_girl_english/</link>
+      <pubDate>Sun, 08 Mar 2020 09:53:05 +0100</pubDate>
+      
+      <guid>http://jialimei.me/blog/gone_girl_english/</guid>
+      <description>This is based on my previous review of the movie Gone Girl in Chinese. Spoiler alert is in order.
+In the movie Gone Girl, the male protagonist Nick comes home on a silent and depressing wedding&amp;rsquo;s anniversary at noon, only to find that his wife, Amy, who he used to love, is gone. The glass coffee table is smashed on the floor of the living room, with a dash of blood on the kitchen floor.</description>
+    </item>
     
     <item>
       <title>Using git for a PhD thesis</title>
